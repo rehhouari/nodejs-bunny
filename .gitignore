@@ -1,5 +1,6 @@
 src/
 pkg/
+*.pkg/
 *.tar.*
 .BUILDINFO
 .PKGINFO
