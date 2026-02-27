@@ -1,0 +1,21 @@
+pkgbase = nodejs-bunny
+	pkgdesc = Barebones shims for using Bun instead of Node.js and npm.
+	pkgver = 0.0.1
+	pkgrel = 1
+	url = https://github.com/rehhouari/nodejs-bunny
+	arch = any
+	license = MIT
+	depends = bun
+	provides = nodejs
+	provides = npm
+	provides = yarn
+	provides = pnpm
+	conflicts = nodejs
+	conflicts = npm
+	conflicts = yarn
+	conflicts = pnpm
+	conflicts = nodejs-lts-gallium
+	conflicts = nodejs-lts-hydrogen
+	conflicts = nodejs-lts-iron
+
+pkgname = nodejs-bunny
