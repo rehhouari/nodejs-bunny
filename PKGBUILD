@@ -7,7 +7,7 @@ pkgdesc="Barebones shims for using Bun instead of Node.js and npm."
 arch=('any')
 url="https://github.com/rehhouari/nodejs-bunny"
 license=('MIT')
-depends=('bun')
+optdepends=('bun')
 provides=('nodejs' 'npm' 'yarn' 'pnpm')
 conflicts=('nodejs' 'npm' 'yarn' 'pnpm' 'nodejs-lts-gallium'
     'nodejs-lts-hydrogen' 'nodejs-lts-iron')
