@@ -1,7 +1,7 @@
 # nodejs-bunny
 
 
-run bun instead of nodejs and npm (or one of the five other package managers for node)
+run bun instead of nodejs, npm, pnpm, and yarn.
 
 ## Install
 
