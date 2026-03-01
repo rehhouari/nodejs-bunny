@@ -1,4 +1,4 @@
-# Maintainer: Rafik El Hadi Houari <rehhouari@gmail.comd>
+# Maintainer: Rafik El Hadi Houari <rehhouari@gmail.com>
 
 pkgname=nodejs-bunny
 pkgver=0.0.1
