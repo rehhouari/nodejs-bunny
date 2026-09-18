@@ -10,6 +10,9 @@ makepkg --printsrcinfo > .SRCINFO
 makepkg -si
 ```
 
+## Why
+
+to make it possible to install arch packages that require nodejs, npm, pnpm, or yarn without having to install any of those.
 
 ## Lets address the rabbit in the room
 
